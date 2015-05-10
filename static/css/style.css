@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   letter-spacing: 1px;
-	color: white;
+	color: black;
 
 	background: url('../images/VRTREEPNG.jpg');
   /* Full Page Background Receipe */
@@ -35,16 +35,16 @@ h2 {
 	font-size: 29px;
   line-height: 38px;
   font-weight: normal;
-  color: #d6a433;
+  color: #000fff;
 }
 
 a {
-	color: #d6a433;
+	color: #ff0000;
 	text-decoration: none;
 }
 
 a:hover {
-  color: #FCD682;
+  color: #000000;
 }
 
 
