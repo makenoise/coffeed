@@ -8,7 +8,7 @@ body {
   letter-spacing: 1px;
 	color: white;
 
-	background: url('../images/coffee-shop.jpg');
+	background: url('../images/VRTREEPNG.jpg');
   /* Full Page Background Receipe */
   background-size: cover;
   background-position: center;
@@ -23,7 +23,7 @@ body {
 }
 
 h1 {
-  font-family: Verdana; 
+  font-family: Courier; 
   font-weight: bold;
 	font-size: 44px;
 	margin-bottom: -20px;
@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-  font-family: Verdana; 
+  font-family: Courier; 
 	font-size: 29px;
   line-height: 38px;
   font-weight: normal;
